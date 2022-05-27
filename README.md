@@ -8,7 +8,7 @@ Type:
 
 ## Step2 -> Go to src\components\App.js and insert your own API key
 
-##Optional Step -> Read the comments in App.js to switch between different methods to fetch(Fetch API / Axios)
+### Optional Step -> Read the comments in App.js to switch between different methods to fetch(Fetch API / Axios)
 
 ## Step3 -> Run the command below to start the react app
 
